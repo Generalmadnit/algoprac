@@ -28,8 +28,8 @@ def deploy(
         on_update=algokit_utils.OnUpdate.AppendApp,
     )
 
-    name = "world"
-    response = app_client.hello(name=name)
+    name = " Kumar"
+    response = app_client.sravan(name=name)
     logger.info(
         f"Called hello on {app_spec.contract.name} ({app_client.app_id}) "
         f"with name={name}, received: {response.return_value}"
