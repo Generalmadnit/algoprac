@@ -1,2 +1,2 @@
 # algoprac
-learning and practising algorand
+learning and practising algokit

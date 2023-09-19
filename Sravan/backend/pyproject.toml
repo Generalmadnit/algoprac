@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "Nitin"
+name = "backend"
 version = "0.1.0"
 description = "Algorand smart contracts"
-authors = [" <>"]
+authors = ["'Your-Name' <'your@email.tld'>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
