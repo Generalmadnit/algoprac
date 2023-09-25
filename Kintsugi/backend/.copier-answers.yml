@@ -1,5 +1,5 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: 1.8.1
+_commit: 1.8.2
 _src_path: gh:algorandfoundation/algokit-beaker-default-template
 algod_port: 4001
 algod_server: http://localhost
@@ -7,7 +7,7 @@ algod_token: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 author_email: '''your@email.tld'''
 author_name: '''Your-Name'''
 contract_name: hello_world
-deployment_language: typescript
+deployment_language: python
 ide_vscode: true
 indexer_port: 8980
 indexer_server: http://localhost

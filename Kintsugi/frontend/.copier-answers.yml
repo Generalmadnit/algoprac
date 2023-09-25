@@ -15,7 +15,7 @@ project_name: frontend
 use_daisy_ui: true
 use_eslint_prettier: true
 use_github_actions: false
-use_jest: false
-use_playwright: false
+use_jest: true
+use_playwright: true
 use_tailwind: true
 

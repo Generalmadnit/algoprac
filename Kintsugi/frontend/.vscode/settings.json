@@ -6,5 +6,8 @@
     "source.organizeImports": true
   },
   "dotenv.enableAutocloaking": false,
-  
+  "jest.autoRun": {
+    "watch": false,
+    "onSave": "test-file"
+  }
 }
